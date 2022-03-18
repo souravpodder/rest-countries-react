@@ -11,7 +11,7 @@ const Countries = () => {
   },[]);
   return (
     <div>
-      <h2>Rest countries Updated list by reactjs</h2>
+      <h2>Rest countries Updated New list connected to github by reactjs</h2>
       {/* {countries.map(country => console.log(country))} */}
       <div className='countries-container'>
         {
